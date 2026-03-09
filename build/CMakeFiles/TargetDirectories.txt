@@ -1,0 +1,3 @@
+/home/samoura/assign1/build/CMakeFiles/app.dir
+/home/samoura/assign1/build/CMakeFiles/edit_cache.dir
+/home/samoura/assign1/build/CMakeFiles/rebuild_cache.dir
